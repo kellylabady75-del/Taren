@@ -1,11 +1,11 @@
 FORGE v2 – mise à jour sur GitHub
 
-1. Ouvre ton dépôt GitHub « Forge- ».
+1. Ouvre ton dépôt GitHub « Taren ».
 2. Clique sur « Add file » > « Upload files ».
 3. Glisse TOUS les fichiers de ce dossier (index.html, sw.js, manifest.json, les 3 icônes).
    GitHub remplace les anciens fichiers.
 4. Clique sur « Commit changes ».
-5. Attends 1 à 2 minutes puis ouvre https://kellylabady75-del.github.io/Forge-/
+5. Attends 1 à 2 minutes puis ouvre https://kellylabady75-del.github.io/Taren/
    Si l'ancienne version s'affiche encore : ferme complètement l'appli et rouvre-la (2 fois si besoin).
 
 Tes données (séances, pesées, repas, photos) sont conservées : elles sont récupérées automatiquement.
